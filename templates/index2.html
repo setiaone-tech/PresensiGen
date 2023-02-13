@@ -1,0 +1,42 @@
+<html>
+<head>
+<title>Tes Dulu</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.2/rollups/aes.js"></script>
+</head>
+<body>
+<form action= "next.html" method="get">
+<label for="cars">Pilih mata kuliah:</label>
+
+<select name="matkul" id="matkul">
+  {% for i in data %}
+  <option value="{{i['id']}}">{{i['matkul']}}</option>
+  {% endfor %}
+</select>
+<label for="pertemuan">Pertemuan:</label>
+<input id="pertemuan" name="pertemuan" type="number" min="1" max="14" /> 
+<label for="tanggal">Tanggal:</label>
+<input type="date" id="tanggal" name="tanggal" value="{{waktu}}"/>
+<label for="start">Start:</label>
+<input type="time" id="start" name="start"> 
+<label for="appt">End:</label>
+<input type="time" id="end" name="end"> 
+</form>
+<button onclick="getCode()">Generate</button>
+<br>
+<label for="hasil">Hasil: </label>
+<input type="text" id="hasil" onclick="this.select()" readonly="true"/>
+
+<script>
+  function getCode(){
+	var idmatkul = document.getElementById("matkul").value;
+	var pert = document.getElementById("pertemuan").value;
+	var tanggal = document.getElementById("tanggal").value;
+	var waktuawal = document.getElementById("start").value;
+	var waktuakhir = document.getElementById("end").value;
+	var message = idmatkul+","+pert+","+tanggal+","+waktuawal+","+waktuakhir;
+	var encrypted = CryptoJS.AES.encrypt(message, "utyjombor123");
+	document.getElementById("hasil").value = encrypted.toString();
+  }
+</script>
+</body>
+</html>
