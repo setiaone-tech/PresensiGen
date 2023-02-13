@@ -1,0 +1,898 @@
+[
+   {
+      "id":"94494",
+      "matkul":"Aljabar Linier(A )\n"
+   },
+   {
+      "id":"94495",
+      "matkul":"Aljabar Linier(B )\n"
+   },
+   {
+      "id":"94496",
+      "matkul":"Aljabar Linier(C )\n"
+   },
+   {
+      "id":"94497",
+      "matkul":"Aljabar Linier(D )\n"
+   },
+   {
+      "id":"94498",
+      "matkul":"Aljabar Linier(E )\n"
+   },
+   {
+      "id":"94499",
+      "matkul":"Aljabar Linier(F )\n"
+   },
+   {
+      "id":"94500",
+      "matkul":"Aljabar Linier(G )\n"
+   },
+   {
+      "id":"94501",
+      "matkul":"Aljabar Linier(H )\n"
+   },
+   {
+      "id":"98139",
+      "matkul":"Aplikasi Automasi Perkantoran(A )\n"
+   },
+   {
+      "id":"98140",
+      "matkul":"Aplikasi Automasi Perkantoran(B )\n"
+   },
+   {
+      "id":"98141",
+      "matkul":"Aplikasi Automasi Perkantoran(C )\n"
+   },
+   {
+      "id":"98142",
+      "matkul":"Aplikasi Automasi Perkantoran(D )\n"
+   },
+   {
+      "id":"98143",
+      "matkul":"Aplikasi Automasi Perkantoran(E )\n"
+   },
+   {
+      "id":"97820",
+      "matkul":"Automata & Matematika Diskret(A )\n"
+   },
+   {
+      "id":"97821",
+      "matkul":"Automata & Matematika Diskret(B )\n"
+   },
+   {
+      "id":"97822",
+      "matkul":"Automata & Matematika Diskret(C )\n"
+   },
+   {
+      "id":"97823",
+      "matkul":"Automata & Matematika Diskret(D )\n"
+   },
+   {
+      "id":"97824",
+      "matkul":"Automata & Matematika Diskret(E )\n"
+   },
+   {
+      "id":"97825",
+      "matkul":"Automata & Matematika Diskret(F )\n"
+   },
+   {
+      "id":"97826",
+      "matkul":"Automata & Matematika Diskret(G )\n"
+   },
+   {
+      "id":"97827",
+      "matkul":"Automata & Matematika Diskret(H )\n"
+   },
+   {
+      "id":"94949",
+      "matkul":"Bahasa & Automata(A )\n"
+   },
+   {
+      "id":"94950",
+      "matkul":"Bahasa & Automata(B )\n"
+   },
+   {
+      "id":"94951",
+      "matkul":"Bahasa & Automata(C )\n"
+   },
+   {
+      "id":"94952",
+      "matkul":"Bahasa & Automata(D )\n"
+   },
+   {
+      "id":"94953",
+      "matkul":"Bahasa & Automata(E )\n"
+   },
+   {
+      "id":"94954",
+      "matkul":"Bahasa & Automata(F )\n"
+   },
+   {
+      "id":"94955",
+      "matkul":"Bahasa & Automata(G )\n"
+   },
+   {
+      "id":"94956",
+      "matkul":"Bahasa & Automata(H )\n"
+   },
+   {
+      "id":"94957",
+      "matkul":"Bahasa Indonesia(A )\n"
+   },
+   {
+      "id":"94958",
+      "matkul":"Bahasa Indonesia(B )\n"
+   },
+   {
+      "id":"94959",
+      "matkul":"Bahasa Indonesia(C )\n"
+   },
+   {
+      "id":"94960",
+      "matkul":"Bahasa Indonesia(D )\n"
+   },
+   {
+      "id":"94961",
+      "matkul":"Bahasa Indonesia(E )\n"
+   },
+   {
+      "id":"94962",
+      "matkul":"Bahasa Indonesia(F )\n"
+   },
+   {
+      "id":"94963",
+      "matkul":"Bahasa Indonesia(G )\n"
+   },
+   {
+      "id":"94964",
+      "matkul":"Bahasa Indonesia(H )\n"
+   },
+   {
+      "id":"94965",
+      "matkul":"Bahasa Indonesia(I )\n"
+   },
+   {
+      "id":"96996",
+      "matkul":"Chinese For Daily Conversation(A )\n"
+   },
+   {
+      "id":"97870",
+      "matkul":"Coding & Machine Learning(A )\n"
+   },
+   {
+      "id":"97871",
+      "matkul":"Coding & Machine Learning(B )\n"
+   },
+   {
+      "id":"97872",
+      "matkul":"Coding & Machine Learning(C )\n"
+   },
+   {
+      "id":"97873",
+      "matkul":"Coding & Machine Learning(D )\n"
+   },
+   {
+      "id":"97874",
+      "matkul":"Coding & Machine Learning(E )\n"
+   },
+   {
+      "id":"97875",
+      "matkul":"Coding & Machine Learning(F )\n"
+   },
+   {
+      "id":"97876",
+      "matkul":"Coding & Machine Learning(G )\n"
+   },
+   {
+      "id":"97877",
+      "matkul":"Coding & Machine Learning(H )\n"
+   },
+   {
+      "id":"98573",
+      "matkul":"Coding & Machine Learning(I )\n"
+   },
+   {
+      "id":"98574",
+      "matkul":"Coding & Machine Learning(J )\n"
+   },
+   {
+      "id":"94914",
+      "matkul":"Data Warehouse & Data Mining(A )\n"
+   },
+   {
+      "id":"94915",
+      "matkul":"Data Warehouse & Data Mining(B )\n"
+   },
+   {
+      "id":"94804",
+      "matkul":"Desain Front-end(A )\n"
+   },
+   {
+      "id":"94805",
+      "matkul":"Desain Front-end(B )\n"
+   },
+   {
+      "id":"94806",
+      "matkul":"Desain Front-end(C )\n"
+   },
+   {
+      "id":"94807",
+      "matkul":"Desain Front-end(D )\n"
+   },
+   {
+      "id":"94808",
+      "matkul":"Desain Front-end(E )\n"
+   },
+   {
+      "id":"94809",
+      "matkul":"Desain Front-end(F )\n"
+   },
+   {
+      "id":"94810",
+      "matkul":"Desain Front-end(G )\n"
+   },
+   {
+      "id":"94811",
+      "matkul":"Desain Front-end(H )\n"
+   },
+   {
+      "id":"96987",
+      "matkul":"English For Daily Conversation(A )\n"
+   },
+   {
+      "id":"96988",
+      "matkul":"English For Daily Conversation(B )\n"
+   },
+   {
+      "id":"96989",
+      "matkul":"English For Daily Conversation(C )\n"
+   },
+   {
+      "id":"96990",
+      "matkul":"English For Daily Conversation(D )\n"
+   },
+   {
+      "id":"96991",
+      "matkul":"English For Daily Conversation(E )\n"
+   },
+   {
+      "id":"96992",
+      "matkul":"English For Daily Conversation(F )\n"
+   },
+   {
+      "id":"96993",
+      "matkul":"English For Daily Conversation(G )\n"
+   },
+   {
+      "id":"96994",
+      "matkul":"English For Daily Conversation(H )\n"
+   },
+   {
+      "id":"98410",
+      "matkul":"Informatics Capstone Project(A )\n"
+   },
+   {
+      "id":"98411",
+      "matkul":"Informatics Capstone Project(B )\n"
+   },
+   {
+      "id":"98412",
+      "matkul":"Informatics Capstone Project(C )\n"
+   },
+   {
+      "id":"98413",
+      "matkul":"Informatics Capstone Project(D )\n"
+   },
+   {
+      "id":"98414",
+      "matkul":"Informatics Capstone Project(E )\n"
+   },
+   {
+      "id":"98415",
+      "matkul":"Informatics Capstone Project(F )\n"
+   },
+   {
+      "id":"98416",
+      "matkul":"Informatics Capstone Project(G )\n"
+   },
+   {
+      "id":"98417",
+      "matkul":"Informatics Capstone Project(H )\n"
+   },
+   {
+      "id":"98418",
+      "matkul":"Informatics Capstone Project(I )\n"
+   },
+   {
+      "id":"98419",
+      "matkul":"Informatics Capstone Project(J )\n"
+   },
+   {
+      "id":"98420",
+      "matkul":"Informatics Capstone Project(K )\n"
+   },
+   {
+      "id":"98421",
+      "matkul":"Informatics Capstone Project(L )\n"
+   },
+   {
+      "id":"98422",
+      "matkul":"Informatics Capstone Project(M )\n"
+   },
+   {
+      "id":"98423",
+      "matkul":"Informatics Capstone Project(N )\n"
+   },
+   {
+      "id":"98424",
+      "matkul":"Informatics Capstone Project(O )\n"
+   },
+   {
+      "id":"Tidak",
+      "matkul":"Ada Internet of Things(A )\n"
+   },
+   {
+      "id":"96995",
+      "matkul":"Japanese for Daily Conversation(A )\n"
+   },
+   {
+      "id":"97888",
+      "matkul":"Jaringan & Keamanan Komputer(A )\n"
+   },
+   {
+      "id":"97889",
+      "matkul":"Jaringan & Keamanan Komputer(B )\n"
+   },
+   {
+      "id":"97890",
+      "matkul":"Jaringan & Keamanan Komputer(C )\n"
+   },
+   {
+      "id":"97891",
+      "matkul":"Jaringan & Keamanan Komputer(D )\n"
+   },
+   {
+      "id":"97892",
+      "matkul":"Jaringan & Keamanan Komputer(E )\n"
+   },
+   {
+      "id":"97893",
+      "matkul":"Jaringan & Keamanan Komputer(F )\n"
+   },
+   {
+      "id":"97894",
+      "matkul":"Jaringan & Keamanan Komputer(G )\n"
+   },
+   {
+      "id":"97895",
+      "matkul":"Jaringan & Keamanan Komputer(H )\n"
+   },
+   {
+      "id":"94692",
+      "matkul":"Jaringan Komputer & Komunikasi Data(A )\n"
+   },
+   {
+      "id":"94693",
+      "matkul":"Jaringan Komputer & Komunikasi Data(B )\n"
+   },
+   {
+      "id":"94694",
+      "matkul":"Jaringan Komputer & Komunikasi Data(C )\n"
+   },
+   {
+      "id":"94695",
+      "matkul":"Jaringan Komputer & Komunikasi Data(D )\n"
+   },
+   {
+      "id":"94696",
+      "matkul":"Jaringan Komputer & Komunikasi Data(E )\n"
+   },
+   {
+      "id":"94697",
+      "matkul":"Jaringan Komputer & Komunikasi Data(F )\n"
+   },
+   {
+      "id":"94698",
+      "matkul":"Jaringan Komputer & Komunikasi Data(G )\n"
+   },
+   {
+      "id":"94699",
+      "matkul":"Jaringan Komputer & Komunikasi Data(H )\n"
+   },
+   {
+      "id":"94786",
+      "matkul":"Keamanan data & Informasi(A )\n"
+   },
+   {
+      "id":"94787",
+      "matkul":"Keamanan data & Informasi(B )\n"
+   },
+   {
+      "id":"94788",
+      "matkul":"Keamanan data & Informasi(C )\n"
+   },
+   {
+      "id":"94789",
+      "matkul":"Keamanan data & Informasi(D )\n"
+   },
+   {
+      "id":"94790",
+      "matkul":"Keamanan data & Informasi(E )\n"
+   },
+   {
+      "id":"94791",
+      "matkul":"Keamanan data & Informasi(F )\n"
+   },
+   {
+      "id":"94792",
+      "matkul":"Keamanan data & Informasi(G )\n"
+   },
+   {
+      "id":"94793",
+      "matkul":"Keamanan data & Informasi(H )\n"
+   },
+   {
+      "id":"94867",
+      "matkul":"Komputasi Mobile(A )\n"
+   },
+   {
+      "id":"94868",
+      "matkul":"Komputasi Mobile(B )\n"
+   },
+   {
+      "id":"94869",
+      "matkul":"Komputasi Mobile(C )\n"
+   },
+   {
+      "id":"94870",
+      "matkul":"Komputasi Mobile(D )\n"
+   },
+   {
+      "id":"94871",
+      "matkul":"Komputasi Mobile(E )\n"
+   },
+   {
+      "id":"94872",
+      "matkul":"Komputasi Mobile(F )\n"
+   },
+   {
+      "id":"94706",
+      "matkul":"Machine Learning(A )\n"
+   },
+   {
+      "id":"94707",
+      "matkul":"Machine Learning(B )\n"
+   },
+   {
+      "id":"94708",
+      "matkul":"Machine Learning(C )\n"
+   },
+   {
+      "id":"94709",
+      "matkul":"Machine Learning(D )\n"
+   },
+   {
+      "id":"94710",
+      "matkul":"Machine Learning(E )\n"
+   },
+   {
+      "id":"94711",
+      "matkul":"Machine Learning(F )\n"
+   },
+   {
+      "id":"94712",
+      "matkul":"Machine Learning(G )\n"
+   },
+   {
+      "id":"94713",
+      "matkul":"Machine Learning(H )\n"
+   },
+   {
+      "id":"98571",
+      "matkul":"Machine Learning(I )\n"
+   },
+   {
+      "id":"98572",
+      "matkul":"Machine Learning(J )\n"
+   },
+   {
+      "id":"94728",
+      "matkul":"Matematika Diskrit(A )\n"
+   },
+   {
+      "id":"94729",
+      "matkul":"Matematika Diskrit(B )\n"
+   },
+   {
+      "id":"94730",
+      "matkul":"Matematika Diskrit(C )\n"
+   },
+   {
+      "id":"94731",
+      "matkul":"Matematika Diskrit(D )\n"
+   },
+   {
+      "id":"94732",
+      "matkul":"Matematika Diskrit(E )\n"
+   },
+   {
+      "id":"94733",
+      "matkul":"Matematika Diskrit(F )\n"
+   },
+   {
+      "id":"94734",
+      "matkul":"Matematika Diskrit(G )\n"
+   },
+   {
+      "id":"94735",
+      "matkul":"Matematika Diskrit(H )\n"
+   },
+   {
+      "id":"94671",
+      "matkul":"Matematika Lanjut(A )\n"
+   },
+   {
+      "id":"94672",
+      "matkul":"Matematika Lanjut(B )\n"
+   },
+   {
+      "id":"94673",
+      "matkul":"Matematika Lanjut(C )\n"
+   },
+   {
+      "id":"94674",
+      "matkul":"Matematika Lanjut(D )\n"
+   },
+   {
+      "id":"94675",
+      "matkul":"Matematika Lanjut(E )\n"
+   },
+   {
+      "id":"94676",
+      "matkul":"Matematika Lanjut(F )\n"
+   },
+   {
+      "id":"94677",
+      "matkul":"Matematika Lanjut(G )\n"
+   },
+   {
+      "id":"94678",
+      "matkul":"Matematika Lanjut(H )\n"
+   },
+   {
+      "id":"98161",
+      "matkul":"Metodologi Desain Perangkat Lunak(A )\n"
+   },
+   {
+      "id":"98162",
+      "matkul":"Metodologi Desain Perangkat Lunak(B )\n"
+   },
+   {
+      "id":"98163",
+      "matkul":"Mobile & Augmented Reality(A )\n"
+   },
+   {
+      "id":"98164",
+      "matkul":"Mobile & Augmented Reality Praktik(A )\n"
+   },
+   {
+      "id":"98165",
+      "matkul":"Pemrograman Berorientasi Objek Praktik(I )\n"
+   },
+   {
+      "id":"98166",
+      "matkul":"Pemrograman Berorientasi Objek Praktik(II )\n"
+   },
+   {
+      "id":"97971",
+      "matkul":"Pemrosesan Teks(A )\n"
+   },
+   {
+      "id":"97972",
+      "matkul":"Pemrosesan Teks(B )\n"
+   },
+   {
+      "id":"97973",
+      "matkul":"Pemrosesan Teks Praktik(A )\n"
+   },
+   {
+      "id":"97974",
+      "matkul":"Pemrosesan Teks Praktik(B )\n"
+   },
+   {
+      "id":"94833",
+      "matkul":"Pengembangan Back-end(A )\n"
+   },
+   {
+      "id":"94834",
+      "matkul":"Pengembangan Back-end(B )\n"
+   },
+   {
+      "id":"94835",
+      "matkul":"Pengembangan Back-end(C )\n"
+   },
+   {
+      "id":"94836",
+      "matkul":"Pengembangan Back-end(D )\n"
+   },
+   {
+      "id":"94837",
+      "matkul":"Pengembangan Back-end(E )\n"
+   },
+   {
+      "id":"94838",
+      "matkul":"Pengembangan Back-end(F )\n"
+   },
+   {
+      "id":"94526",
+      "matkul":"Probabilitas(A )\n"
+   },
+   {
+      "id":"94527",
+      "matkul":"Probabilitas(B )\n"
+   },
+   {
+      "id":"94528",
+      "matkul":"Probabilitas(C )\n"
+   },
+   {
+      "id":"94529",
+      "matkul":"Probabilitas(D )\n"
+   },
+   {
+      "id":"94530",
+      "matkul":"Probabilitas(E )\n"
+   },
+   {
+      "id":"94531",
+      "matkul":"Probabilitas(F )\n"
+   },
+   {
+      "id":"94532",
+      "matkul":"Probabilitas(G )\n"
+   },
+   {
+      "id":"94533",
+      "matkul":"Probabilitas(H )\n"
+   },
+   {
+      "id":"94865",
+      "matkul":"Proyek Profesional(1 )\n"
+   },
+   {
+      "id":"94874",
+      "matkul":"Proyek Profesional(10 )\n"
+   },
+   {
+      "id":"94875",
+      "matkul":"Proyek Profesional(11 )\n"
+   },
+   {
+      "id":"94876",
+      "matkul":"Proyek Profesional(12 )\n"
+   },
+   {
+      "id":"94877",
+      "matkul":"Proyek Profesional(13 )\n"
+   },
+   {
+      "id":"94878",
+      "matkul":"Proyek Profesional(14 )\n"
+   },
+   {
+      "id":"94879",
+      "matkul":"Proyek Profesional(15 )\n"
+   },
+   {
+      "id":"94880",
+      "matkul":"Proyek Profesional(16 )\n"
+   },
+   {
+      "id":"94881",
+      "matkul":"Proyek Profesional(17 )\n"
+   },
+   {
+      "id":"94882",
+      "matkul":"Proyek Profesional(18 )\n"
+   },
+   {
+      "id":"94883",
+      "matkul":"Proyek Profesional(19 )\n"
+   },
+   {
+      "id":"94866",
+      "matkul":"Proyek Profesional(2 )\n"
+   },
+   {
+      "id":"94884",
+      "matkul":"Proyek Profesional(20 )\n"
+   },
+   {
+      "id":"94885",
+      "matkul":"Proyek Profesional(21 )\n"
+   },
+   {
+      "id":"94886",
+      "matkul":"Proyek Profesional(22 )\n"
+   },
+   {
+      "id":"94887",
+      "matkul":"Proyek Profesional(23 )\n"
+   },
+   {
+      "id":"94889",
+      "matkul":"Proyek Profesional(24 )\n"
+   },
+   {
+      "id":"94890",
+      "matkul":"Proyek Profesional(25 )\n"
+   },
+   {
+      "id":"94891",
+      "matkul":"Proyek Profesional(26 )\n"
+   },
+   {
+      "id":"94892",
+      "matkul":"Proyek Profesional(27 )\n"
+   },
+   {
+      "id":"94893",
+      "matkul":"Proyek Profesional(28 )\n"
+   },
+   {
+      "id":"94894",
+      "matkul":"Proyek Profesional(29 )\n"
+   },
+   {
+      "id":"94867",
+      "matkul":"Proyek Profesional(3 )\n"
+   },
+   {
+      "id":"94895",
+      "matkul":"Proyek Profesional(30 )\n"
+   },
+   {
+      "id":"94896",
+      "matkul":"Proyek Profesional(31 )\n"
+   },
+   {
+      "id":"94897",
+      "matkul":"Proyek Profesional(32 )\n"
+   },
+   {
+      "id":"94898",
+      "matkul":"Proyek Profesional(33 )\n"
+   },
+   {
+      "id":"94868",
+      "matkul":"Proyek Profesional(4 )\n"
+   },
+   {
+      "id":"94869",
+      "matkul":"Proyek Profesional(5 )\n"
+   },
+   {
+      "id":"94870",
+      "matkul":"Proyek Profesional(6 )\n"
+   },
+   {
+      "id":"94871",
+      "matkul":"Proyek Profesional(7 )\n"
+   },
+   {
+      "id":"94872",
+      "matkul":"Proyek Profesional(8 )\n"
+   },
+   {
+      "id":"94873",
+      "matkul":"Proyek Profesional(9 )\n"
+   },
+   {
+      "id":"98174",
+      "matkul":"Rekayasa Web(A )\n"
+   },
+   {
+      "id":"98175",
+      "matkul":"Rekayasa Web(B )\n"
+   },
+   {
+      "id":"98176",
+      "matkul":"Rekayasa Web(C )\n"
+   },
+   {
+      "id":"98177",
+      "matkul":"Rekayasa Web Praktik(A )\n"
+   },
+   {
+      "id":"98178",
+      "matkul":"Rekayasa Web Praktik(B )\n"
+   },
+   {
+      "id":"98179",
+      "matkul":"Rekayasa Web Praktik(C )\n"
+   },
+   {
+      "id":"97992",
+      "matkul":"Sistem Cerdas(A )\n"
+   },
+   {
+      "id":"97993",
+      "matkul":"Sistem Cerdas(B )\n"
+   },
+   {
+      "id":"98101",
+      "matkul":"Sistem Komputer(A )\n"
+   },
+   {
+      "id":"98102",
+      "matkul":"Sistem Komputer(B )\n"
+   },
+   {
+      "id":"98103",
+      "matkul":"Sistem Komputer(C )\n"
+   },
+   {
+      "id":"98104",
+      "matkul":"Sistem Komputer(D )\n"
+   },
+   {
+      "id":"98105",
+      "matkul":"Sistem Komputer(E )\n"
+   },
+   {
+      "id":"98106",
+      "matkul":"Sistem Komputer(F )\n"
+   },
+   {
+      "id":"98107",
+      "matkul":"Sistem Komputer(G )\n"
+   },
+   {
+      "id":"98108",
+      "matkul":"Sistem Komputer(H )\n"
+   },
+   {
+      "id":"98109",
+      "matkul":"Sistem Komputer(I )\n"
+   },
+   {
+      "id":"95145",
+      "matkul":"Sistem Pakar(A )\n"
+   },
+   {
+      "id":"95146",
+      "matkul":"Sistem Pakar(B )\n"
+   },
+   {
+      "id":"94753",
+      "matkul":"Struktur Data & Algoritma(A )\n"
+   },
+   {
+      "id":"94754",
+      "matkul":"Struktur Data & Algoritma(B )\n"
+   },
+   {
+      "id":"94755",
+      "matkul":"Struktur Data & Algoritma(C )\n"
+   },
+   {
+      "id":"94756",
+      "matkul":"Struktur Data & Algoritma(D )\n"
+   },
+   {
+      "id":"94757",
+      "matkul":"Struktur Data & Algoritma(E )\n"
+   },
+   {
+      "id":"94758",
+      "matkul":"Struktur Data & Algoritma(F )\n"
+   },
+   {
+      "id":"94759",
+      "matkul":"Struktur Data & Algoritma(G )\n"
+   },
+   {
+      "id":"94760",
+      "matkul":"Struktur Data & Algoritma(H )\n"
+   }
+]
